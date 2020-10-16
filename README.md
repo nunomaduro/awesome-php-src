@@ -15,3 +15,4 @@ Have you found something that makes PHP source code more awesome? Make a PR and 
 
 ## Articles
 * [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
+* [Zend Execution engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
