@@ -18,6 +18,7 @@ Have you found something that makes PHP source code more awesome? Make a PR and 
 ## Articles
 * [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
 * [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
+* [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/) 
 
 ## Books
 * [Internals Book](http://www.phpinternalsbook.com/index.html)
