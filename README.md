@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="PHP" height="100" src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" />
+    <img title="PHP" height="100" src="https://raw.githubusercontent.com/nunomaduro/awesome-php-src/main/logo.png" />
 </p>
 
 ## Awesome PHP source code [![Awesome](https://rawcdn.githack.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
