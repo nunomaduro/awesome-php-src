@@ -12,11 +12,15 @@ Have you found something that makes PHP source code more awesome? Make a PR and 
 ## Table of Contents
 
 - [Articles](#articles)
-- [Internals](#internals)
+- [Books](#books)
+- [Discussions](#discussions)
 
 ## Articles
 * [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
-* [Zend Execution engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
+* [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
 
-## Internals
+## Books
+* [Internals Book](http://www.phpinternalsbook.com/index.html)
+
+## Discussions
 * [Externals.io](https://externals.io)
