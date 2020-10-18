@@ -11,6 +11,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Discussions](#discussions)
+- [Podcasts](#podcasts)
 
 ## Articles
 * [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
@@ -23,3 +24,6 @@
 ## Discussions
 * [Externals.io](https://externals.io)
 * [RFCs](https://wiki.php.net/rfc)
+
+## Podcasts
+* [PHP Internals News](https://phpinternals.news)
