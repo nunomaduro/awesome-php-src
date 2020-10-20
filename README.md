@@ -15,6 +15,7 @@
 
 ## Articles
 * [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
+* [Simplified Overview on PHP's Virtual Machine](https://thephp.website/en/issue/php-8-jit/)
 * [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
 * [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/) 
 
