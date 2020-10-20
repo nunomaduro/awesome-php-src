@@ -14,6 +14,7 @@
 - [Podcasts](#podcasts)
 
 ## Articles
+* [Arrays / HashTables](http://blog.jpauli.tech/2016-04-08-hashtables-html/)
 * [JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/)
 * [Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
