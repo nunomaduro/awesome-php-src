@@ -14,9 +14,10 @@
 - [Podcasts](#podcasts)
 
 ## Articles
-* [PHP Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
+* [JIT](https://thephp.website/en/issue/php-8-jit/)
+* [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/)
+* [Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
 * [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
-* [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/) 
 
 ## Books
 * [Internals Book](http://www.phpinternalsbook.com/index.html)
