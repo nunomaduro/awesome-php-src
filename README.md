@@ -14,12 +14,11 @@
 - [Podcasts](#podcasts)
 
 ## Articles
+* [Arrays / HashTables](http://blog.jpauli.tech/2016-04-08-hashtables-html/)
 * [JIT](https://thephp.website/en/issue/php-8-jit/)
 * [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/)
 * [Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
 * [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
-* [PHP 7 Arrays: HashTables](http://blog.jpauli.tech/2016-04-08-hashtables-html/)
-* [深入理解PHP7内核之HashTable](https://www.laruence.com/2020/02/25/3182.html)
 
 ## Books
 * [Internals Book](http://www.phpinternalsbook.com/index.html)
