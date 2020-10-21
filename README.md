@@ -19,6 +19,8 @@
 * [Function Calls](http://blog.jpauli.tech/2015-01-22-on-php-funct/)
 * [Virtual Machine](https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html)
 * [Zend Execution Engine](http://blog.jpauli.tech/2015-02-05-zend-vm-executor-html/)
+* [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+
 
 ## Books
 * [Internals Book](http://www.phpinternalsbook.com/index.html)
