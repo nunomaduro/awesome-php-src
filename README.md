@@ -12,6 +12,7 @@
 - [Books](#books)
 - [Discussions](#discussions)
 - [Podcasts](#podcasts)
+- [Tools](#tools)
 
 ## Articles
 * [Arrays / HashTables](http://blog.jpauli.tech/2016-04-08-hashtables-html/)
@@ -29,3 +30,6 @@
 
 ## Podcasts
 * [PHP Internals News](https://phpinternals.news)
+
+## Tools
+* [VLD](https://github.com/derickr/vld)
