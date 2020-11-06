@@ -12,6 +12,7 @@
 - [Books](#books)
 - [Discussions](#discussions)
 - [Podcasts](#podcasts)
+- [Talks](#talks)
 - [Tools](#tools)
 
 ## Articles
@@ -31,6 +32,9 @@
 
 ## Podcasts
 * [PHP Internals News](https://phpinternals.news)
+
+## Talks
+* [Abstract Syntax Tree explanation](https://www.youtube.com/watch?v=AEfkYUjEuSs)
 
 ## Tools
 * [VLD](https://github.com/derickr/vld)
