@@ -11,6 +11,7 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Discussions](#discussions)
+- [Extensions](#extensions)
 - [Podcasts](#podcasts)
 - [References](#references)
 - [Talks](#talks)
@@ -30,6 +31,9 @@
 ## Discussions
 * [Externals.io](https://externals.io)
 * [RFCs](https://wiki.php.net/rfc)
+
+## Extensions
+* [Feature Code Samples](https://github.com/ThomasWeinert/php-extension-sample)
 
 ## Podcasts
 * [PHP Internals News](https://phpinternals.news)
