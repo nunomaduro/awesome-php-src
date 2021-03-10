@@ -12,6 +12,7 @@
 - [Books](#books)
 - [Discussions](#discussions)
 - [Podcasts](#podcasts)
+- [References](#references)
 - [Talks](#talks)
 - [Tools](#tools)
 
@@ -32,6 +33,9 @@
 
 ## Podcasts
 * [PHP Internals News](https://phpinternals.news)
+
+## References
+* [PHPT - Test File Layout](http://qa.php.net/phpt_details.php)
 
 ## Talks
 * [Abstract Syntax Tree explanation](https://www.youtube.com/watch?v=AEfkYUjEuSs)
