@@ -39,6 +39,7 @@
 * [PHP Internals News](https://phpinternals.news)
 
 ## References
+* [PHP Wiki: Engine Reference](https://wiki.php.net/internals/engine)
 * [PHPT - Test File Layout](http://qa.php.net/phpt_details.php)
 
 ## Talks
